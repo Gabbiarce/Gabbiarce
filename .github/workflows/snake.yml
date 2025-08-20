@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule: # Ejecuta todos los días a medianoche (UTC)
     - cron: "0 0 * * *"
-  workflow_dispatch: # Permite correrlo manualmente desde Actions
+  workflow_dispatch: # Permite correrlo manualmente
 
 jobs:
   build:
@@ -14,7 +14,7 @@ jobs:
           github_user_name: Gabbiarce
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
             dist/github-contribution-grid-snake.gif
 
       - name: Push snake files to output branch
