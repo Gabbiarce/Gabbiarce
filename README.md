@@ -1,15 +1,6 @@
 <div align="center">
 <h1>Hola <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, soy Gabi</h1>
 </div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabbiarce/Gabbiarce/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabbiarce/Gabbiarce/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Gabbiarce/Gabbiarce/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 ---
 
 ### 👨🏻‍💻 Sobre mí
